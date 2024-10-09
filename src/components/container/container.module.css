@@ -1,0 +1,10 @@
+.container {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  margin: 88px;
+  overflow: hidden;
+  background-color: aqua;
+}

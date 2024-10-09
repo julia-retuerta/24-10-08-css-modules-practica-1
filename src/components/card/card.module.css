@@ -1,11 +1,51 @@
-.orange {
+.card {
+  width: 327px;
+  padding: 48px;
+  color: white;
+}
+
+.bg-orange {
   background-color: #e28625;
 }
 
-.turquoise {
+.bg-turquoise {
   background-color: #006971;
 }
 
-.dark-green {
+.bg-dark-green {
   background-color: #004140;
+}
+
+.title {
+  font-family: 'Big Shoulders Display', serif;
+  font-size: 40px;
+}
+
+.text {
+  font-family: 'Lexend Deca', serif;
+  font-size: 15px;
+  line-height: 25px;
+  opacity: 0.75;
+  margin-bottom: 25px;
+}
+
+.button {
+  width: 146px;
+  height: 48px;
+  border: none;
+  border-radius: 25px;
+  font-family: 'Lexend Deca', serif;
+  font-size: 15px;
+}
+
+.button-text-color-orange {
+  color: #e28625;
+}
+
+.button-text-color-turquoise {
+  color: #006971;
+}
+
+.button-text-color-dark-green {
+  color: #004140;
 }
